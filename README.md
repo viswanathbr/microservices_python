@@ -38,3 +38,5 @@
 
 - http://192.168.1.36:5000/health is the endpoint which give the output *{ "status": "Up"}*
 
+- Below command freezes the dependencies and exports it to requirements text file 
+*C:\Users\viswa\Downloads\microservices_python\SRC>pip freeze > requirements.txt*
