@@ -1,6 +1,5 @@
 # microservices_python
-
-
+**Tasks**
 - Install Python
 - Creating Python Virtual Environments
 - Installing Python VS code extension
