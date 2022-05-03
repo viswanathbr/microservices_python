@@ -11,7 +11,7 @@
 - Writing Kubernetes manifest files for the application
 - Creating Helm chart
 
-Process of Creating an API
+**Process of Creating an API**
 - create virtual environment '''C:\Users\viswa\Downloads\microservices_python>python -m venv tutorial-env'''
 - Activate virtual environment  '''C:\Users\viswa\Downloads\microservices_python>tutorial-env\Scripts\activate.bat'''     
 - Install flask in the virtual env '''(tutorial-env) C:\Users\viswa\Downloads\microservices_python>pip install Flask'''
